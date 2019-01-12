@@ -1,3 +1,11 @@
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/jbcoe/polymorphic_value?svg=true&branch=master)](https://ci.appveyor.com/project/jbcoe/polymorphic-value)
+[![Travis Build Status](https://travis-ci.org/jbcoe/polymorphic_value.svg?branch=master)](https://travis-ci.org/jbcoe/polymorphic_value)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/jbcoe/polymorphic_value/master/LICENSE.txt)
+[![GitHub Releases](https://img.shields.io/github/release/jbcoe/polymorphic_value.svg)](https://github.com/jbcoe/polymorphic_value/releases)
+[![GitHub Issues](https://img.shields.io/github/issues/jbcoe/polymorphic_value.svg)](http://github.com/jbcoe/polymorphic_value/issues)
+
+---
+
 # A polymorphic value-type for C++
 
 The class template `polymorphic_value` is proposed for addition to the C++ Standard Library.
