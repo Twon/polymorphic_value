@@ -3,7 +3,7 @@
 [![GitHub Issues](https://img.shields.io/github/issues/jbcoe/polymorphic_value.svg)](http://github.com/jbcoe/polymorphic_value/issues)
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/jbcoe/polymorphic_value?svg=true&branch=master)](https://ci.appveyor.com/project/jbcoe/polymorphic-value)
 [![Travis Build Status](https://travis-ci.org/jbcoe/polymorphic_value.svg?branch=master)](https://travis-ci.org/jbcoe/polymorphic_value)
-[![Test Status](https://img.shields.io/appveyor/tests/NZSmartie/coap-net-iu0to.svg?failed_label=bad&passed_label=good&skipped_label=n%2Fa)
+[![Test Status](https://img.shields.io/appveyor/tests/NZSmartie/coap-net-iu0to.svg)](https://github.com/jbcoe/polymorphic_value)
 
 ---
 
