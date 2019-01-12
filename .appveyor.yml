@@ -21,4 +21,5 @@ build_script:
   - python scripts\build.py
 
 test_script:
+  - cd build
   - ctest . --output-on-failure -C "%CONFIGURATION%"
