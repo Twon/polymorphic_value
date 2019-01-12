@@ -10,5 +10,7 @@ before_build:
   - cd c:\projects\polymorphic_value
   
 build_script:
-  - python scripts\build.py -t
+  - python scripts\build.py
 
+test_script:
+  - ctest . --output-on-failure -C build
