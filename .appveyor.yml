@@ -1,6 +1,14 @@
 image:
   - Visual Studio 2017
 
+platform:
+  - x86
+  - x64
+
+configuration:
+  - Debug
+  - Release
+
 install:
   - git submodule update --init
 
@@ -13,4 +21,4 @@ build_script:
   - python scripts\build.py
 
 test_script:
-  - ctest . --output-on-failure -C build
+  - ctest . --output-on-failure -C "%CONFIGURATION%"
